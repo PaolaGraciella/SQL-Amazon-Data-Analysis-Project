@@ -10,9 +10,9 @@ And ERD diagram is included to visually represent the database schema and relati
 
 ---
 
-##**Database Setup & Design**
+## **Database Setup & Design**
 
-###**Schema Structure**
+## **Schema Structure**
 - The database contains **8 tables**: 'customers', 'sellers', 'products', 'orders', 'order_items', 'inventory', 'payments' and 'shippings'.
 - These tables are designed with **primary keys**, **foreign key constraints**, and proper indexing to maintain data integrity and optimize query perfromance.
 - You can find the SQL script for setting up the databse schema ![Capture d’écran 2025-02-16 201105](https://github.com/user-attachments/assets/4f37ee28-0a9f-4fd8-a245-b06d8ca91751)
