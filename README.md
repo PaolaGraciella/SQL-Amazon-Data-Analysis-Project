@@ -1,6 +1,6 @@
-#***Amazon USA Sales Analysis Project***
+## ***Amazon USA Sales Analysis Project***
 
-### **Difficulty level : Advanced**
+## **Difficulty level : Advanced**
 
 I have worked on analyzing a dataset of over 20,000 sales records from an amazon e-commerce platform. This project involves extensive querying of customer behavior, product performance, and sales trends using postgreSQL. Through this project, i have trackled various SQL problems, including revenue analysis, customer segmentation, and inventory management. 
 
